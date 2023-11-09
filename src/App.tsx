@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Webzone In Preview ytyt
+      <h1>Preview deploy
       </h1>
     </div>
   );
