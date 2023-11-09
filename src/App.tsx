@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Preview deploy
+      <h1>I deployed for preview
       </h1>
     </div>
   );
